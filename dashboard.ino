@@ -24,8 +24,8 @@
 #define MotionExID 13
 
 
-const char* ssid = "benshlomo";
-const char* password = "1234567899";
+const char* ssid = "";
+const char* password = "";
 
 const char* target_ip = "192.168.1.15";
 int port = 20777;
