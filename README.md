@@ -7,8 +7,6 @@ This project is a Sim Race Dashboard implemented using the C language on the ESP
 
 ## Features
 - **Real-time Data Display**: Receive and interpret UDP packets from racing simulation games, displaying key telemetry data on the TFT screen.
-- **Customizable Interface**: Customize the layout and design of the dashboard to suit individual preferences and requirements.
-- **Multi-game Compatibility**: Designed to work with a variety of popular racing simulation games, ensuring flexibility and widespread usability.
 - **Low-latency Communication**: Utilizes efficient UDP communication for minimal delay, maintaining responsiveness during gameplay.
 - **Scalable Architecture**: Built on the ESP32 microcontroller platform, offering scalability and potential for future expansion and enhancements.
 - **User-friendly Setup**: Simple and straightforward setup process, allowing users to quickly integrate the dashboard into their racing setup.
@@ -16,7 +14,7 @@ This project is a Sim Race Dashboard implemented using the C language on the ESP
 ## Requirements
 - ESP32 Microcontroller
 - TFT Display (compatible with ESP32)
-- Racing Simulation Game (compatible with UDP telemetry output)
+- F1 Racing Simulation Game (compatible with UDP telemetry output)
 
 ## Installation
 1. Clone or download the repository to your local machine.
@@ -27,7 +25,7 @@ This project is a Sim Race Dashboard implemented using the C language on the ESP
 
 ## Usage
 1. Power on the ESP32 and TFT display.
-2. Launch your preferred racing simulation game.
+2. Launch your F1 racing simulation game.
 3. Start a race or training session.
 4. The dashboard will receive and display real-time telemetry data on the TFT screen.
 5. Monitor your performance and make adjustments as necessary during gameplay.
