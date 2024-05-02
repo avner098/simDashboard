@@ -1,4 +1,4 @@
-# Sim Race Dashboard for ESP32 (Arduino)
+# F1 Sim Race Dashboard for ESP32 (Arduino)
 
 <!--![Sim Race Dashboard](dashboard_image.jpg)-->
 
