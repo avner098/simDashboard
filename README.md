@@ -1,6 +1,6 @@
 # Sim Race Dashboard for ESP32 (Arduino)
 
-![Sim Race Dashboard](dashboard_image.jpg)
+//![Sim Race Dashboard](dashboard_image.jpg)
 
 ## Overview
 This project is a Sim Race Dashboard implemented using the C language on the ESP32 microcontroller within the Arduino workspace. It provides a real-time display of telemetry data from racing simulation games on a TFT screen. By receiving UDP packets from the game, the ESP32 processes and translates this data into meaningful information, offering players crucial insights into their performance during races.
